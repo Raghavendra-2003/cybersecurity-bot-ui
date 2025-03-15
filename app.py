@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Backend API URL (Replace with your Render API)
-API_URL = "https://cybersecurity-bot-9a85.onrender.com"
+API_URL = "https://cybersecurity-bot-9a85.onrender.com/ask"
 
 st.title("🛡️ Cybersecurity Awareness Bot")
 st.write("Ask me anything about cybersecurity!")
